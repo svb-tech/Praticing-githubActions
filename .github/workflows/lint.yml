@@ -5,8 +5,8 @@
 name: Auto Lint
 
 on:
-    push:
-        paths: ["*.js"]
+  push:
+    paths: ["*.js"]
 
 jobs:
     code:
