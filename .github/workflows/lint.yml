@@ -22,4 +22,7 @@ jobs:
 
             - name: RunEslist
               run: npm install lint 
+
+            - name: Run the lint
+              run: npm run lint
            
